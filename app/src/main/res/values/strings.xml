@@ -4,4 +4,10 @@
     <string name="after_register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
     <string name="batal">Batal</string>
     <string name="keluar">Keluar</string>
+    <string name="text_container" type="id">container</string>
+    <string name="id_booking" type="id">boking</string>
+    <string name="tanggal" type="id">tanggal</string>
+    <string name="riwayat" type="id">riwayat</string>
+    <string name="tv_total" type="id">tv_total</string>
+    <string name="total" type="id">total</string>
 </resources>

@@ -228,7 +228,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerInParent="true"
-            android:text="© Travel Apps by Azhar Rivaldi 2020"
+            android:text="Muhammad Noor Saputro 2021"
             android:textColor="#92A7AB"
             android:textSize="12sp" />
 
